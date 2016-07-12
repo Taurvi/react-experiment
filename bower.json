@@ -1,0 +1,20 @@
+{
+  "name": "react-experiment",
+  "authors": [
+    "Stephen Rimbakusumo <srimbakusumo@gmail.com>"
+  ],
+  "description": "Bower for experimenting with ReactJS",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.2.1"
+  }
+}
